@@ -1,0 +1,108 @@
+﻿Champion,Item,AD_DPS,AP_DPS,EHP,TTK,Sustain,Composite,PhysMix,RobustMode,Role,DamageType
+아트록스,삼위일체,128.7,54.5,2813,22.3,8,0.36,0.7,FALSE,Bruiser,Physical
+아트록스,몰락한 왕의 검,127.1,54.5,2372,18.8,1279.48,0.408,0.7,FALSE,Bruiser,Physical
+아트록스,마법사의 최후,111.9,54.5,2464,19.6,8,0.332,0.7,FALSE,Bruiser,Physical
+아트록스,월식,115.3,54.5,2372,18.8,8,0.334,0.7,FALSE,Bruiser,Physical
+아트록스,마나무네,98.3,54.5,2372,18.8,8,0.314,0.7,FALSE,Bruiser,Physical
+아트록스,무라마나,98.3,54.5,2372,18.8,8,0.314,0.7,FALSE,Bruiser,Physical
+아트록스,맬모셔스의 아귀,115.3,54.5,2454,19.5,8,0.336,0.7,FALSE,Bruiser,Physical
+아트록스,화공 펑크 사슬검,105.1,54.5,2968,23.6,8,0.337,0.7,FALSE,Bruiser,Physical
+아트록스,쇼진의 창,105.1,54.5,2968,23.6,8,0.337,0.7,FALSE,Bruiser,Physical
+아트록스,실험적 마공학판,122.1,54.5,2968,23.6,8,0.357,0.7,FALSE,Bruiser,Physical
+아트록스,선체파괴자,101.7,54.5,3035,24.1,8,0.335,0.7,FALSE,Bruiser,Physical
+아트록스,칠흑의 양날 도끼,101.7,54.5,2902,23,8,0.331,0.7,FALSE,Bruiser,Physical
+아트록스,갈라진 하늘,101.7,54.5,2902,23,8,0.331,0.7,FALSE,Bruiser,Physical
+아트록스,지배자의 피갑옷,98.3,54.5,3101,24.6,8,0.332,0.7,FALSE,Bruiser,Physical
+아트록스,굶주린 히드라,118.7,54.5,2372,18.8,1432.06,0.398,0.7,FALSE,Bruiser,Physical
+아트록스,거대한 히드라,101.7,54.5,3167,25.1,8,0.338,0.7,FALSE,Bruiser,Physical
+아트록스,발걸음 분쇄기,127.1,54.5,2968,23.6,8,0.363,0.7,FALSE,Bruiser,Physical
+아트록스,스테락의 도전,74.6,54.5,2902,23,8,0.3,0.7,FALSE,Bruiser,Physical
+아트록스,죽음의 무도,115.3,54.5,2588,20.5,8,0.339,0.7,FALSE,Bruiser,Physical
+아트록스,수호 천사,111.9,54.5,2568,20.4,8,0.335,0.7,FALSE,Bruiser,Physical
+아트록스,정수 약탈자,201.7,54.5,2372,18.8,8,0.435,0.7,FALSE,Bruiser,Physical
+아트록스,징수의 총,189.9,54.5,2372,18.8,8,0.421,0.7,FALSE,Bruiser,Physical
+아트록스,윤 탈 야생화살,151.1,54.5,2372,18.8,8,0.376,0.7,FALSE,Bruiser,Physical
+아트록스,크라켄 학살자,147.2,54.5,2372,18.8,8,0.371,0.7,FALSE,Bruiser,Physical
+아트록스,스태틱의 단검,136.6,54.5,2372,18.8,8,0.359,0.7,FALSE,Bruiser,Physical
+아트록스,유령 무희,208.9,54.5,2372,18.8,8,0.443,0.7,FALSE,Bruiser,Physical
+아트록스,루난의 허리케인,182.8,54.5,2372,18.8,8,0.413,0.7,FALSE,Bruiser,Physical
+아트록스,고속 연사포,176.2,54.5,2372,18.8,8,0.405,0.7,FALSE,Bruiser,Physical
+아트록스,나보리 명멸검,182.8,54.5,2372,18.8,8,0.413,0.7,FALSE,Bruiser,Physical
+아트록스,도미닉 경의 인사,172.1,54.5,2372,18.8,8,0.4,0.7,FALSE,Bruiser,Physical
+아트록스,필멸자의 운명,172.1,54.5,2372,18.8,8,0.4,0.7,FALSE,Bruiser,Physical
+아트록스,경계,128.2,54.5,2372,18.8,8,0.349,0.7,FALSE,Bruiser,Physical
+아트록스,구인수의 격노검,118.7,58.9,2372,18.8,8,0.338,0.7,FALSE,Bruiser,Physical
+아트록스,무한의 대검,207.7,54.5,2372,18.8,8,0.442,0.7,FALSE,Bruiser,Physical
+아트록스,불멸의 철갑궁,195.8,54.5,2372,18.8,8,0.428,0.7,FALSE,Bruiser,Physical
+아트록스,피바라기,128.8,54.5,2372,18.8,1940.66,0.41,0.7,FALSE,Bruiser,Physical
+아트록스,헤르메스의 시미터,108.5,54.5,2444,19.4,1093,0.388,0.7,FALSE,Bruiser,Physical
+아트록스,독사의 송곳니,111.9,54.5,2372,18.8,8,0.33,0.7,FALSE,Bruiser,Physical
+아트록스,그림자 검,111.9,54.5,2372,18.8,8,0.33,0.7,FALSE,Bruiser,Physical
+아트록스,요우무의 유령검,111.9,54.5,2372,18.8,8,0.33,0.7,FALSE,Bruiser,Physical
+아트록스,기회,111.9,54.5,2372,18.8,8,0.33,0.7,FALSE,Bruiser,Physical
+아트록스,밤의 끝자락,111.9,54.5,2703,21.5,8,0.338,0.7,FALSE,Bruiser,Physical
+아트록스,벼락폭풍검,111.9,54.5,2372,18.8,8,0.33,0.7,FALSE,Bruiser,Physical
+아트록스,오만,115.3,54.5,2372,18.8,8,0.334,0.7,FALSE,Bruiser,Physical
+아트록스,원칙의 원형낫,111.9,54.5,2372,18.8,8,0.33,0.7,FALSE,Bruiser,Physical
+아트록스,불경한 히드라,111.9,54.5,2372,18.8,8,0.33,0.7,FALSE,Bruiser,Physical
+아트록스,세릴다의 원한,105.1,54.5,2372,18.8,8,0.322,0.7,FALSE,Bruiser,Physical
+아트록스,메자이의 영혼약탈자,74.6,57.5,2505,19.9,8,0.29,0.7,FALSE,Bruiser,Physical
+아트록스,모렐로노미콘,74.6,65.5,2836,22.5,8,0.298,0.7,FALSE,Bruiser,Physical
+아트록스,마법공학 로켓 벨트,74.6,64.7,2770,22,8,0.296,0.7,FALSE,Bruiser,Physical
+아트록스,영겁의 지팡이,74.6,61.1,2902,23,8,0.3,0.7,FALSE,Bruiser,Physical
+아트록스,라일라이의 수정홀,74.6,64,2902,23,8,0.3,0.7,FALSE,Bruiser,Physical
+아트록스,지평선의 초점,74.6,72.7,2372,18.8,8,0.286,0.7,FALSE,Bruiser,Physical
+아트록스,악의,74.6,67.6,2372,18.8,8,0.286,0.7,FALSE,Bruiser,Physical
+아트록스,어둠불꽃 횃불,74.6,66.2,2372,18.8,8,0.286,0.7,FALSE,Bruiser,Physical
+아트록스,무덤꽃,74.6,65.5,2372,18.8,8,0.286,0.7,FALSE,Bruiser,Physical
+아트록스,폭풍 쇄도,74.6,67.6,2372,18.8,8,0.286,0.7,FALSE,Bruiser,Physical
+아트록스,루덴의 동반자,74.6,69.1,2372,18.8,8,0.286,0.7,FALSE,Bruiser,Physical
+아트록스,대천사의 지팡이,74.6,64.7,2372,18.8,8,0.286,0.7,FALSE,Bruiser,Physical
+아트록스,대천사의 포옹,74.6,64.7,2372,18.8,8,0.286,0.7,FALSE,Bruiser,Physical
+아트록스,내셔의 이빨,111.9,66.2,2372,18.8,8,0.33,0.7,FALSE,Bruiser,Physical
+아트록스,리안드리의 고통,74.6,63.3,2770,22,8,0.296,0.7,FALSE,Bruiser,Physical
+아트록스,우주의 추진력,74.6,64.7,2836,22.5,8,0.298,0.7,FALSE,Bruiser,Physical
+아트록스,균열 생성기,74.6,64.7,2836,22.5,8,0.298,0.7,FALSE,Bruiser,Physical
+아트록스,공허의 지팡이,74.6,68.4,2372,18.8,8,0.286,0.7,FALSE,Bruiser,Physical
+아트록스,밴시의 장막,74.6,69.8,2454,19.5,8,0.288,0.7,FALSE,Bruiser,Physical
+아트록스,리치베인,74.6,69.1,2372,18.8,8,0.286,0.7,FALSE,Bruiser,Physical
+아트록스,그림자불꽃,74.6,70.5,2372,18.8,8,0.286,0.7,FALSE,Bruiser,Physical
+아트록스,존야의 모래시계,74.6,69.8,2588,20.5,8,0.292,0.7,FALSE,Bruiser,Physical
+아트록스,라바돈의 죽음모자,74.6,73.5,2372,18.8,8,0.286,0.7,FALSE,Bruiser,Physical
+아트록스,핏빛 저주,74.6,64,2902,23,8,0.3,0.7,FALSE,Bruiser,Physical
+아트록스,지크의 융합,74.6,54.5,3031,24.1,8,0.303,0.7,FALSE,Bruiser,Physical
+아트록스,얼어붙은 심장,74.6,54.5,2687,21.3,8,0.294,0.7,FALSE,Bruiser,Physical
+아트록스,혹한의 손길,74.6,54.5,3101,24.6,8,0.305,0.7,FALSE,Bruiser,Physical
+아트록스,종말의 겨울,74.6,54.5,3101,24.6,8,0.305,0.7,FALSE,Bruiser,Physical
+아트록스,심연의 가면,74.6,54.5,2945,23.4,8,0.301,0.7,FALSE,Bruiser,Physical
+아트록스,얼어붙은 건틀릿,74.6,54.5,3022,24,8,0.303,0.7,FALSE,Bruiser,Physical
+아트록스,가시 갑옷,74.6,54.5,2913,23.1,8,0.3,0.7,FALSE,Bruiser,Physical
+아트록스,란두인의 예언,74.6,54.5,3213,25.5,8,0.307,0.7,FALSE,Bruiser,Physical
+아트록스,태양불꽃 방패,74.6,54.5,3094,24.6,8,0.304,0.7,FALSE,Bruiser,Physical
+아트록스,끝없는 절망,74.6,54.5,3102,24.6,8,0.305,0.7,FALSE,Bruiser,Physical
+아트록스,대자연의 힘,74.6,54.5,3037,24.1,8,0.303,0.7,FALSE,Bruiser,Physical
+아트록스,공허한 광휘,74.6,54.5,3002,23.8,108,0.362,0.7,FALSE,Bruiser,Physical
+아트록스,정령의 형상,74.6,54.5,3026,24,108,0.363,0.7,FALSE,Bruiser,Physical
+아트록스,케이닉 루컨,74.6,54.5,3093,24.5,108,0.364,0.7,FALSE,Bruiser,Physical
+아트록스,망자의 갑옷,74.6,54.5,3118,24.7,8,0.305,0.7,FALSE,Bruiser,Physical
+아트록스,강철심장,74.6,54.5,3565,28.3,108,0.376,0.7,FALSE,Bruiser,Physical
+아트록스,워모그의 갑옷,74.6,54.5,3697,29.3,108,0.379,0.7,FALSE,Bruiser,Physical
+아트록스,해신 작쇼,515.4,54.5,3656,29,8,0.833,0.7,FALSE,Bruiser,Physical
+아트록스,자자크의 세계가시,74.6,54.5,2637,20.9,83,0.353,0.7,FALSE,Bruiser,Physical
+아트록스,피의 노래,74.6,54.5,2637,20.9,83,0.353,0.7,FALSE,Bruiser,Physical
+아트록스,태양의 썰매,74.6,54.5,2637,20.9,83,0.353,0.7,FALSE,Bruiser,Physical
+아트록스,꿈 생성기,74.6,54.5,2637,20.9,83,0.353,0.7,FALSE,Bruiser,Physical
+아트록스,천상의 이의,74.6,54.5,2637,20.9,83,0.353,0.7,FALSE,Bruiser,Physical
+아트록스,슈렐리아의 군가,74.6,61.8,2372,18.8,8,0.286,0.7,FALSE,Bruiser,Physical
+아트록스,헬리아의 메아리,74.6,59.6,2637,20.9,8,0.293,0.7,FALSE,Bruiser,Physical
+아트록스,월석 재생기,74.6,58.2,2637,20.9,8,0.293,0.7,FALSE,Bruiser,Physical
+아트록스,기사의 맹세,74.6,54.5,2831,22.5,108,0.358,0.7,FALSE,Bruiser,Physical
+아트록스,강철의 솔라리 펜던트,74.6,54.5,2819,22.4,8,0.297,0.7,FALSE,Bruiser,Physical
+아트록스,제국의 명령,74.6,63.3,2372,18.8,8,0.286,0.7,FALSE,Bruiser,Physical
+아트록스,불타는 향로,74.6,61.1,2372,18.8,8,0.286,0.7,FALSE,Bruiser,Physical
+아트록스,흐르는 물의 지팡이,74.6,59.6,2372,18.8,8,0.286,0.7,FALSE,Bruiser,Physical
+아트록스,구원,74.6,54.5,2637,20.9,8,0.293,0.7,FALSE,Bruiser,Physical
+아트록스,미카엘의 축복,74.6,54.5,2703,21.5,8,0.295,0.7,FALSE,Bruiser,Physical
+아트록스,경계의 와드석,74.6,54.5,2901,23,8,0.3,0.7,FALSE,Bruiser,Physical
+아트록스,개척자,74.6,54.5,2903,23,8,0.3,0.7,FALSE,Bruiser,Physical
+아트록스,새벽심장,74.6,61.1,2372,18.8,8,0.286,0.7,FALSE,Bruiser,Physical
