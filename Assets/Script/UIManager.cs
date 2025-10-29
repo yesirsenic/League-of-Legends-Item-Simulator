@@ -209,13 +209,13 @@ public class UIManager : MonoBehaviour
         resultText.text =
             $"<b>{champName}</b> + <b>{itemName}</b>\n" +
             $"({champ.role} / {champ.damageType})\n\n" +
-            $"🗡️ AD DPS : {adDps:F1}\n" +
-            $"🔮 AP DPS : {apDps:F1}\n" +
-            $"⚔️ Mixed DPS : {mixedDps:F1}\n" +
-            $"🛡️ EHP : {ehp:F0}\n" +
-            $"⏱️ TTK : {ttk:F2}s\n" +
-            $"💉 Sustain : {sustainCombined:F2}\n" +
-            $"⚙️ Composite Score : {comp * 100f:F1}%";
+            $"AD DPS : {adDps:F1}\n" +
+            $"AP DPS : {apDps:F1}\n" +
+            $"Mixed DPS : {mixedDps:F1}\n" +
+            $"EHP : {ehp:F0}\n" +
+            $"TTK : {ttk:F2}s\n" +
+            $"Sustain : {sustainCombined:F2}\n" +
+            $"Composite Score : {comp * 100f:F1}%";
     }
 
     // 🔘 슬라이더 변경 시 호출
